@@ -1,2 +1,2 @@
 # leetcode
-leetcode练习
+leetcode go实现
