@@ -20,3 +20,4 @@ leetcode go实现
 - [反转字符串](https://github.com/forjoin92/leetcode/tree/master/string/q1)
 - [整数反转](https://github.com/forjoin92/leetcode/tree/master/string/q2)
 - [字符串中的第一个唯一字符](https://github.com/forjoin92/leetcode/tree/master/string/q3)
+- [有效的字母异位词](https://github.com/forjoin92/leetcode/tree/master/string/q4)
