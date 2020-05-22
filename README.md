@@ -18,3 +18,4 @@ leetcode go实现
 ## 字符串
 
 - [反转字符串](https://github.com/forjoin92/leetcode/tree/master/string/q1)
+- [整数反转](https://github.com/forjoin92/leetcode/tree/master/string/q2)
