@@ -26,3 +26,7 @@ leetcode go实现
 - [实现 strStr()](https://github.com/forjoin92/leetcode/tree/master/string/q7)
 - [外观数列](https://github.com/forjoin92/leetcode/tree/master/string/q8)
 - [最长公共前缀](https://github.com/forjoin92/leetcode/tree/master/string/q9)
+
+## 链表
+
+- [删除链表中的节点](https://github.com/forjoin92/leetcode/tree/master/linked_list/q1)
