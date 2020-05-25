@@ -24,3 +24,4 @@ leetcode go实现
 - [验证回文字符串](https://github.com/forjoin92/leetcode/tree/master/string/q5)
 - [字符串转换整数 (atoi)](https://github.com/forjoin92/leetcode/tree/master/string/q6)
 - [实现 strStr()](https://github.com/forjoin92/leetcode/tree/master/string/q7)
+- [外观数列](https://github.com/forjoin92/leetcode/tree/master/string/q8)
