@@ -22,3 +22,4 @@ leetcode go实现
 - [字符串中的第一个唯一字符](https://github.com/forjoin92/leetcode/tree/master/string/q3)
 - [有效的字母异位词](https://github.com/forjoin92/leetcode/tree/master/string/q4)
 - [验证回文字符串](https://github.com/forjoin92/leetcode/tree/master/string/q5)
+- [字符串转换整数 (atoi)](https://github.com/forjoin92/leetcode/tree/master/string/q6)
