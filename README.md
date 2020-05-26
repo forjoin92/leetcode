@@ -30,3 +30,4 @@ leetcode go实现
 ## 链表
 
 - [删除链表中的节点](https://github.com/forjoin92/leetcode/tree/master/linked_list/q1)
+- [删除链表的倒数第N个节点](https://github.com/forjoin92/leetcode/tree/master/linked_list/q2)
