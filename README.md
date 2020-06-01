@@ -34,3 +34,4 @@ leetcode go实现
 - [反转链表](https://github.com/forjoin92/leetcode/tree/master/linked_list/q3)
 - [合并两个有序链表](https://github.com/forjoin92/leetcode/tree/master/linked_list/q4)
 - [回文链表](https://github.com/forjoin92/leetcode/tree/master/linked_list/q5)
+- [环形链表](https://github.com/forjoin92/leetcode/tree/master/linked_list/q6)
