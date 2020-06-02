@@ -39,3 +39,4 @@ leetcode go实现
 ## 树
 
 - [二叉树的最大深度](https://github.com/forjoin92/leetcode/tree/master/tree/q1)
+- [验证二叉搜索树](https://github.com/forjoin92/leetcode/tree/master/tree/q2)
