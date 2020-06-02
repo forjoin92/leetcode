@@ -42,3 +42,4 @@ leetcode go实现
 - [验证二叉搜索树](https://github.com/forjoin92/leetcode/tree/master/tree/q2)
 - [对称二叉树](https://github.com/forjoin92/leetcode/tree/master/tree/q3)
 - [二叉树的层序遍历](https://github.com/forjoin92/leetcode/tree/master/tree/q4)
+- [将有序数组转换为二叉搜索树](https://github.com/forjoin92/leetcode/tree/master/tree/q5)
