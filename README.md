@@ -35,3 +35,7 @@ leetcode go实现
 - [合并两个有序链表](https://github.com/forjoin92/leetcode/tree/master/linked_list/q4)
 - [回文链表](https://github.com/forjoin92/leetcode/tree/master/linked_list/q5)
 - [环形链表](https://github.com/forjoin92/leetcode/tree/master/linked_list/q6)
+
+## 树
+
+- [二叉树的最大深度](https://github.com/forjoin92/leetcode/tree/master/tree/q1)
