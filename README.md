@@ -41,3 +41,4 @@ leetcode go实现
 - [二叉树的最大深度](https://github.com/forjoin92/leetcode/tree/master/tree/q1)
 - [验证二叉搜索树](https://github.com/forjoin92/leetcode/tree/master/tree/q2)
 - [对称二叉树](https://github.com/forjoin92/leetcode/tree/master/tree/q3)
+- [二叉树的层序遍历](https://github.com/forjoin92/leetcode/tree/master/tree/q4)
