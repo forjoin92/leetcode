@@ -36,6 +36,7 @@ leetcode go实现
 - [合并两个有序链表](https://github.com/forjoin92/leetcode/tree/master/linked_list/q4) ([leetcode 21](https://leetcode-cn.com/problems/merge-two-sorted-lists/))
 - [回文链表](https://github.com/forjoin92/leetcode/tree/master/linked_list/q5) ([leetcode 234](https://leetcode-cn.com/problems/palindrome-linked-list/))
 - [环形链表](https://github.com/forjoin92/leetcode/tree/master/linked_list/q6) ([leetcode 141](https://leetcode-cn.com/problems/linked-list-cycle/))
+- [两数相加](https://github.com/forjoin92/leetcode/tree/master/linked_list/q7) ([leetcode 2](https://leetcode-cn.com/problems/add-two-numbers/))
 
 ## 树
 
