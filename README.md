@@ -28,6 +28,7 @@ leetcode go实现
 - [外观数列](https://github.com/forjoin92/leetcode/tree/master/string/q8) ([leetcode 38](https://leetcode-cn.com/problems/count-and-say/))
 - [最长公共前缀](https://github.com/forjoin92/leetcode/tree/master/string/q9) ([leetcode 14](https://leetcode-cn.com/problems/longest-common-prefix/))
 - [无重复字符的最长子串](https://github.com/forjoin92/leetcode/tree/master/string/q10) ([leetcode 3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/))
+- [最长回文子串](https://github.com/forjoin92/leetcode/tree/master/string/q11) ([leetcode 5](https://leetcode-cn.com/problems/longest-palindromic-substring/))
 
 ## 链表
 
