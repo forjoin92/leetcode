@@ -15,6 +15,7 @@ leetcode go实现
 - [有效的数独](https://github.com/forjoin92/leetcode/tree/master/array/q10) ([leetcode 36](https://leetcode-cn.com/problems/valid-sudoku/))
 - [旋转图像](https://github.com/forjoin92/leetcode/tree/master/array/q11) ([leetcode 48](https://leetcode-cn.com/problems/rotate-image/))
 - [合并两个有序数组](https://github.com/forjoin92/leetcode/tree/master/array/q12) ([leetcode 88](https://leetcode-cn.com/problems/merge-sorted-array/))
+- [有多少小于当前数字的数字](https://github.com/forjoin92/leetcode/tree/master/array/q13) ([leetcode 1365](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/))
 
 ## 字符串
 
