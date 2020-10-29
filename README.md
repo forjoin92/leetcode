@@ -32,6 +32,7 @@ leetcode go实现
 - [最长公共前缀](https://github.com/forjoin92/leetcode/tree/master/string/q9) ([leetcode 14](https://leetcode-cn.com/problems/longest-common-prefix/))
 - [无重复字符的最长子串](https://github.com/forjoin92/leetcode/tree/master/string/q10) ([leetcode 3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/))
 - [最长回文子串](https://github.com/forjoin92/leetcode/tree/master/string/q11) ([leetcode 5](https://leetcode-cn.com/problems/longest-palindromic-substring/))
+- [Z字形变换](https://github.com/forjoin92/leetcode/tree/master/string/q12) ([leetcode 6](https://leetcode-cn.com/problems/zigzag-conversion/))
 
 ## 链表
 
