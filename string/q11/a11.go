@@ -1,28 +1,26 @@
 package q11
 
 func longestPalindrome(s string) string {
-	var longest string
 	if len(s) == 1 {
 		return s
 	}
+	var res string
 	for i := 0; i < len(s); i++ {
 		for j := i + 1; j <= len(s); j++ {
-			if isPalindrome(s[i:j]) && len(longest) < j-i {
-				longest = s[i:j]
+			if isPalindrome(s[i:j]) && len(res) < j-i {
+				res = s[i:j]
 			}
 		}
 	}
-	return longest
+	return res
 }
 
 func isPalindrome(s string) bool {
-	head, tail := 0, len(s)-1
-	for head < tail {
-		if s[head] != s[tail] {
+	i, j := 0, len(s)-1
+	for ; i < j; i, j = i+1, j-1 {
+		if s[i] != s[j] {
 			return false
 		}
-		head++
-		tail--
 	}
 	return true
 }
