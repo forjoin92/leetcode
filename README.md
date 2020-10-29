@@ -51,6 +51,7 @@ leetcode go实现
 - [二叉树的层序遍历](https://github.com/forjoin92/leetcode/tree/master/tree/q4) ([leetcode 102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/))
 - [将有序数组转换为二叉搜索树](https://github.com/forjoin92/leetcode/tree/master/tree/q5) ([leetcode 108](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/))
 - [二叉树的前序遍历](https://github.com/forjoin92/leetcode/tree/master/tree/q6) ([leetcode 144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))
+- [求根到叶子节点数字之和](https://github.com/forjoin92/leetcode/tree/master/tree/q7) ([leetcode 129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/))
 
 ## 查找
 
