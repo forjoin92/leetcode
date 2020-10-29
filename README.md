@@ -33,6 +33,7 @@ leetcode go实现
 - [无重复字符的最长子串](https://github.com/forjoin92/leetcode/tree/master/string/q10) ([leetcode 3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/))
 - [最长回文子串](https://github.com/forjoin92/leetcode/tree/master/string/q11) ([leetcode 5](https://leetcode-cn.com/problems/longest-palindromic-substring/))
 - [Z字形变换](https://github.com/forjoin92/leetcode/tree/master/string/q12) ([leetcode 6](https://leetcode-cn.com/problems/zigzag-conversion/))
+- [回文数](https://github.com/forjoin92/leetcode/tree/master/string/q13) ([leetcode 9](https://leetcode-cn.com/problems/palindrome-number/)
 
 ## 链表
 
