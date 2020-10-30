@@ -34,6 +34,7 @@ leetcode go实现
 - [最长回文子串](https://github.com/forjoin92/leetcode/tree/master/string/q11) ([leetcode 5](https://leetcode-cn.com/problems/longest-palindromic-substring/))
 - [Z字形变换](https://github.com/forjoin92/leetcode/tree/master/string/q12) ([leetcode 6](https://leetcode-cn.com/problems/zigzag-conversion/))
 - [回文数](https://github.com/forjoin92/leetcode/tree/master/string/q13) ([leetcode 9](https://leetcode-cn.com/problems/palindrome-number/)
+- [罗马数字转整数](https://github.com/forjoin92/leetcode/tree/master/string/q14) ([leetcode 13](https://leetcode-cn.com/problems/roman-to-integer/)
 
 ## 链表
 
