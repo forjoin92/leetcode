@@ -16,4 +16,9 @@ func Test_longestCommonPrefix(t *testing.T) {
 	expected2 := ""
 	res2 := longestCommonPrefix(strs2)
 	assert.Equal(t, expected2, res2)
+
+	strs3 := []string{"ab", "a"}
+	expected3 := "a"
+	res3 := longestCommonPrefix(strs3)
+	assert.Equal(t, expected3, res3)
 }
