@@ -20,6 +20,7 @@ leetcode go实现
 - [寻找两个正序数组的中位数](https://github.com/forjoin92/leetcode/tree/master/array/q15) ([leetcode 4](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/))
 - [两个数组的交集](https://github.com/forjoin92/leetcode/tree/master/array/q16) ([leetcode 349](https://leetcode-cn.com/problems/intersection-of-two-arrays/))
 - [三数之和](https://github.com/forjoin92/leetcode/tree/master/array/q17) ([leetcode 15](https://leetcode-cn.com/problems/3sum/))
+- [最接近的三数之和](https://github.com/forjoin92/leetcode/tree/master/array/q18) ([leetcode 16](https://leetcode-cn.com/problems/3sum-closest/))
 
 ## 字符串
 
