@@ -39,6 +39,7 @@ leetcode go实现
 - [回文数](https://github.com/forjoin92/leetcode/tree/master/string/q13) ([leetcode 9](https://leetcode-cn.com/problems/palindrome-number/)
 - [罗马数字转整数](https://github.com/forjoin92/leetcode/tree/master/string/q14) ([leetcode 13](https://leetcode-cn.com/problems/roman-to-integer/)
 - [整数转罗马数字](https://github.com/forjoin92/leetcode/tree/master/string/q15) ([leetcode 12](https://leetcode-cn.com/problems/integer-to-roman/)
+- [电话号码的字母组合](https://github.com/forjoin92/leetcode/tree/master/string/q16) ([leetcode 17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
 
 ## 链表
 
