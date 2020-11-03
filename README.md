@@ -21,6 +21,7 @@ leetcode go实现
 - [两个数组的交集](https://github.com/forjoin92/leetcode/tree/master/array/q16) ([leetcode 349](https://leetcode-cn.com/problems/intersection-of-two-arrays/))
 - [三数之和](https://github.com/forjoin92/leetcode/tree/master/array/q17) ([leetcode 15](https://leetcode-cn.com/problems/3sum/))
 - [最接近的三数之和](https://github.com/forjoin92/leetcode/tree/master/array/q18) ([leetcode 16](https://leetcode-cn.com/problems/3sum-closest/))
+- [有效的山脉数组](https://github.com/forjoin92/leetcode/tree/master/array/q19) ([leetcode 941](https://leetcode-cn.com/problems/valid-mountain-array/))
 
 ## 字符串
 
