@@ -10,11 +10,11 @@ func removeNthFromEnd(head *ListNode, n int) *ListNode {
 	for i := 0; i < n-1; i++ {
 		p2 = p2.Next
 	}
-	var pre *ListNode
 	if p2.Next == nil {
 		p1 = p1.Next
 		return p1
 	}
+	var pre *ListNode
 	for p2.Next != nil {
 		pre = p1
 		p1 = p1.Next
