@@ -24,6 +24,7 @@ leetcode go实现
 - [有效的山脉数组](https://github.com/forjoin92/leetcode/tree/master/array/q19) ([leetcode 941](https://leetcode-cn.com/problems/valid-mountain-array/))
 - [插入区间](https://github.com/forjoin92/leetcode/tree/master/array/q20) ([leetcode 57](https://leetcode-cn.com/problems/insert-interval/))
 - [移除元素](https://github.com/forjoin92/leetcode/tree/master/array/q21) ([leetcode 27](https://leetcode-cn.com/problems/remove-element/))
+- [括号生成](https://github.com/forjoin92/leetcode/tree/master/array/q22) ([leetcode 22](https://leetcode-cn.com/problems/generate-parentheses/)
 
 ## 字符串
 
