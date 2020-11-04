@@ -1,16 +1,17 @@
 package q1
 
 func removeDuplicates(nums []int) int {
-	length := len(nums)
-	if length < 2 {
-		return length
+	if len(nums) < 2 {
+		return len(nums)
 	}
-	position := 0
-	for i := 1; i < length; i++ {
-		if nums[i] != nums[position] {
-			position++
-			nums[position] = nums[i]
+	var res int
+	for i := 0; i < len(nums); i++ {
+		if i > 0 && nums[i] == nums[i-1] {
+			continue
+		} else {
+			nums[res] = nums[i]
 		}
+		res++
 	}
-	return position + 1
+	return res
 }
