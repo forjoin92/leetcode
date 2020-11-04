@@ -23,6 +23,7 @@ leetcode go实现
 - [最接近的三数之和](https://github.com/forjoin92/leetcode/tree/master/array/q18) ([leetcode 16](https://leetcode-cn.com/problems/3sum-closest/))
 - [有效的山脉数组](https://github.com/forjoin92/leetcode/tree/master/array/q19) ([leetcode 941](https://leetcode-cn.com/problems/valid-mountain-array/))
 - [插入区间](https://github.com/forjoin92/leetcode/tree/master/array/q20) ([leetcode 57](https://leetcode-cn.com/problems/insert-interval/))
+- [移除元素](https://github.com/forjoin92/leetcode/tree/master/array/q21) ([leetcode 27](https://leetcode-cn.com/problems/remove-element/))
 
 ## 字符串
 
