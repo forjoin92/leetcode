@@ -25,6 +25,7 @@ leetcode go实现
 - [插入区间](https://github.com/forjoin92/leetcode/tree/master/array/q20) ([leetcode 57](https://leetcode-cn.com/problems/insert-interval/))
 - [移除元素](https://github.com/forjoin92/leetcode/tree/master/array/q21) ([leetcode 27](https://leetcode-cn.com/problems/remove-element/))
 - [括号生成](https://github.com/forjoin92/leetcode/tree/master/array/q22) ([leetcode 22](https://leetcode-cn.com/problems/generate-parentheses/)
+- [根据数字二进制下1的数目排序](https://github.com/forjoin92/leetcode/tree/master/array/q23) ([leetcode 1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)
 
 ## 字符串
 
