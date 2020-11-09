@@ -24,8 +24,8 @@ leetcode go实现
 - [有效的山脉数组](https://github.com/forjoin92/leetcode/tree/master/array/q19) ([leetcode 941](https://leetcode-cn.com/problems/valid-mountain-array/))
 - [插入区间](https://github.com/forjoin92/leetcode/tree/master/array/q20) ([leetcode 57](https://leetcode-cn.com/problems/insert-interval/))
 - [移除元素](https://github.com/forjoin92/leetcode/tree/master/array/q21) ([leetcode 27](https://leetcode-cn.com/problems/remove-element/))
-- [括号生成](https://github.com/forjoin92/leetcode/tree/master/array/q22) ([leetcode 22](https://leetcode-cn.com/problems/generate-parentheses/)
-- [根据数字二进制下1的数目排序](https://github.com/forjoin92/leetcode/tree/master/array/q23) ([leetcode 1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)
+- [括号生成](https://github.com/forjoin92/leetcode/tree/master/array/q22) ([leetcode 22](https://leetcode-cn.com/problems/generate-parentheses/))
+- [根据数字二进制下1的数目排序](https://github.com/forjoin92/leetcode/tree/master/array/q23) ([leetcode 1356](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/))
 
 ## 字符串
 
@@ -41,13 +41,13 @@ leetcode go实现
 - [无重复字符的最长子串](https://github.com/forjoin92/leetcode/tree/master/string/q10) ([leetcode 3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/))
 - [最长回文子串](https://github.com/forjoin92/leetcode/tree/master/string/q11) ([leetcode 5](https://leetcode-cn.com/problems/longest-palindromic-substring/))
 - [Z字形变换](https://github.com/forjoin92/leetcode/tree/master/string/q12) ([leetcode 6](https://leetcode-cn.com/problems/zigzag-conversion/))
-- [回文数](https://github.com/forjoin92/leetcode/tree/master/string/q13) ([leetcode 9](https://leetcode-cn.com/problems/palindrome-number/)
-- [罗马数字转整数](https://github.com/forjoin92/leetcode/tree/master/string/q14) ([leetcode 13](https://leetcode-cn.com/problems/roman-to-integer/)
-- [整数转罗马数字](https://github.com/forjoin92/leetcode/tree/master/string/q15) ([leetcode 12](https://leetcode-cn.com/problems/integer-to-roman/)
-- [电话号码的字母组合](https://github.com/forjoin92/leetcode/tree/master/string/q16) ([leetcode 17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
-- [有效的括号](https://github.com/forjoin92/leetcode/tree/master/string/q17) ([leetcode 20](https://leetcode-cn.com/problems/valid-parentheses/)
-- [实现strStr()](https://github.com/forjoin92/leetcode/tree/master/string/q18) ([leetcode 28](https://leetcode-cn.com/problems/implement-strstr/submissions/)
-- [两数相除](https://github.com/forjoin92/leetcode/tree/master/string/q19) ([leetcode 29](https://leetcode-cn.com/problems/divide-two-integers/)
+- [回文数](https://github.com/forjoin92/leetcode/tree/master/string/q13) ([leetcode 9](https://leetcode-cn.com/problems/palindrome-number/))
+- [罗马数字转整数](https://github.com/forjoin92/leetcode/tree/master/string/q14) ([leetcode 13](https://leetcode-cn.com/problems/roman-to-integer/))
+- [整数转罗马数字](https://github.com/forjoin92/leetcode/tree/master/string/q15) ([leetcode 12](https://leetcode-cn.com/problems/integer-to-roman/))
+- [电话号码的字母组合](https://github.com/forjoin92/leetcode/tree/master/string/q16) ([leetcode 17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/))
+- [有效的括号](https://github.com/forjoin92/leetcode/tree/master/string/q17) ([leetcode 20](https://leetcode-cn.com/problems/valid-parentheses/))
+- [实现strStr()](https://github.com/forjoin92/leetcode/tree/master/string/q18) ([leetcode 28](https://leetcode-cn.com/problems/implement-strstr/submissions/))
+- [两数相除](https://github.com/forjoin92/leetcode/tree/master/string/q19) ([leetcode 29](https://leetcode-cn.com/problems/divide-two-integers/))
 
 ## 链表
 
