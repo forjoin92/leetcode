@@ -1,6 +1,8 @@
 # leetcode
 leetcode go实现
 
+- [两数之和](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_1) ([leetcode 1](https://leetcode-cn.com/problems/two-sum/))
+
 ## 数组
 
 - [删除排序数组中的重复项](https://github.com/forjoin92/leetcode/tree/master/array/q1) ([leetcode 26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/))
@@ -11,7 +13,6 @@ leetcode go实现
 - [两个数组的交集 II](https://github.com/forjoin92/leetcode/tree/master/array/q6) ([leetcode 350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/))
 - [加一](https://github.com/forjoin92/leetcode/tree/master/array/q7) ([leetcode 66](https://leetcode-cn.com/problems/plus-one/))
 - [移动零](https://github.com/forjoin92/leetcode/tree/master/array/q8) ([leetcode 283](https://leetcode-cn.com/problems/move-zeroes/))
-- [两数之和](https://github.com/forjoin92/leetcode/tree/master/array/q9) ([leetcode 1](https://leetcode-cn.com/problems/two-sum/))
 - [有效的数独](https://github.com/forjoin92/leetcode/tree/master/array/q10) ([leetcode 36](https://leetcode-cn.com/problems/valid-sudoku/))
 - [旋转图像](https://github.com/forjoin92/leetcode/tree/master/array/q11) ([leetcode 48](https://leetcode-cn.com/problems/rotate-image/))
 - [合并两个有序数组](https://github.com/forjoin92/leetcode/tree/master/array/q12) ([leetcode 88](https://leetcode-cn.com/problems/merge-sorted-array/))

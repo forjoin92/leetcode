@@ -1,4 +1,4 @@
-package q9
+package leetcode_1
 
 import (
 	"testing"
@@ -15,7 +15,7 @@ func Test_twoSum(t *testing.T) {
 
 	nums2 := []int{4, 4}
 	target2 := 8
-	expected2 := []int{}
+	expected2 := []int{0, 1}
 	res2 := twoSum(nums2, target2)
-	assert.Subset(t, expected2, res2)
+	assert.Equal(t, expected2, res2)
 }
