@@ -74,7 +74,7 @@ leetcode go实现
 - [较大分组的位置](https://github.com/forjoin92/leetcode/tree/master/leetcode_801-850/leetcode_830) ([leetcode 830](https://leetcode-cn.com/problems/positions-of-large-groups/))
 
 ## 900-950
-- [有效的山脉数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_900-950/leetcode_941) ([leetcode 941](https://leetcode-cn.com/problems/valid-mountain-array/))
+- [有效的山脉数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_901-950/leetcode_941) ([leetcode 941](https://leetcode-cn.com/problems/valid-mountain-array/))
 
 ## 1001-1050
 - [可被 5 整除的二进制前缀](https://github.com/forjoin92/leetcode/tree/master/leetcode_1001-1050/leetcode_1018) ([leetcode 1018](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/))
