@@ -6,16 +6,10 @@ func maxProfit(prices []int) int {
 		return 0
 	}
 	profit := 0
-	from, to := 0, 1
-	for to < days {
-		if prices[to] < prices[to-1] {
-			profit = profit + prices[to-1] - prices[from]
-			from = to
+	for i := 1; i < len(prices); i++ {
+		if prices[i] > prices[i-1] {
+			profit = profit + prices[i] - prices[i-1]
 		}
-		to++
-	}
-	if to > from && prices[to-1] > prices[from] {
-		profit = profit + prices[to-1] - prices[from]
 	}
 	return profit
 }
