@@ -30,6 +30,7 @@ leetcode go实现
 - [有效的数独](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_36) ([leetcode 36](https://leetcode-cn.com/problems/valid-sudoku/))
 - [外观数列](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_38) ([leetcode 38](https://leetcode-cn.com/problems/count-and-say/))
 - [旋转图像](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_48) ([leetcode 48](https://leetcode-cn.com/problems/rotate-image/))
+- [Pow(x, n)](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_50) ([leetcode 50](https://leetcode-cn.com/problems/powx-n/))
 
 ## 51-100
 - [插入区间](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_57) ([leetcode 57](https://leetcode-cn.com/problems/insert-interval/))
@@ -42,6 +43,7 @@ leetcode go实现
 - [二叉树的层序遍历](https://github.com/forjoin92/leetcode/tree/master/leetcode_101-150/leetcode_102) ([leetcode 102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/))
 - [二叉树的最大深度](https://github.com/forjoin92/leetcode/tree/master/leetcode_101-150/leetcode_104) ([leetcode 104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/))
 - [将有序数组转换为二叉搜索树](https://github.com/forjoin92/leetcode/tree/master/leetcode_101-150/leetcode_108) ([leetcode 108](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/))
+- [二叉树的最小深度](https://github.com/forjoin92/leetcode/tree/master/leetcode_101-150/leetcode_111) ([leetcode 111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/))
 - [买卖股票的最佳时机 II](https://github.com/forjoin92/leetcode/tree/master/leetcode_101-150/leetcode_122) ([leetcode 122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/))
 - [验证回文字符串](https://github.com/forjoin92/leetcode/tree/master/leetcode_101-150/leetcode_125) ([leetcode 125](https://leetcode-cn.com/problems/valid-palindrome/))
 - [求根到叶子节点数字之和](https://github.com/forjoin92/leetcode/tree/master/leetcode_101-150/leetcode_129) ([leetcode 129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/))
@@ -50,6 +52,7 @@ leetcode go实现
 - [二叉树的前序遍历](https://github.com/forjoin92/leetcode/tree/master/leetcode_101-150/leetcode_144) ([leetcode 144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))
 
 ## 151-200
+- [多数元素](https://github.com/forjoin92/leetcode/tree/master/leetcode_151-200/leetcode_169) ([leetcode 169](https://leetcode-cn.com/problems/majority-element/))
 - [旋转数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_151-200/leetcode_189) ([leetcode 189](https://leetcode-cn.com/problems/rotate-array/))
 
 ## 201-250
@@ -58,6 +61,8 @@ leetcode go实现
 - [用队列实现栈](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_225) ([leetcode 225](https://leetcode-cn.com/problems/implement-stack-using-queues/))
 - [用栈实现队列](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_232) ([leetcode 232](https://leetcode-cn.com/problems/implement-queue-using-stacks/))
 - [回文链表](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_234) ([leetcode 234](https://leetcode-cn.com/problems/palindrome-linked-list/))
+- [二叉搜索树的最近公共祖先](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_235) ([leetcode 235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [二叉树的最近公共祖先](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_236) ([leetcode 236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/))
 - [删除链表中的节点](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_237) ([leetcode 237](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/))
 - [滑动窗口最大值](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_239) ([leetcode 239](https://leetcode-cn.com/problems/sliding-window-maximum/))
 - [有效的字母异位词](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_242) ([leetcode 242](https://leetcode-cn.com/problems/valid-anagram/))
