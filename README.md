@@ -33,6 +33,7 @@ leetcode go实现
 - [Pow(x, n)](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_50) ([leetcode 50](https://leetcode-cn.com/problems/powx-n/))
 
 ## 51-100
+- [N皇后](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_51) ([leetcode 51](https://leetcode-cn.com/problems/n-queens/))
 - [插入区间](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_57) ([leetcode 57](https://leetcode-cn.com/problems/insert-interval/))
 - [加一](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_66) ([leetcode 66](https://leetcode-cn.com/problems/plus-one/))
 - [合并两个有序数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_88) ([leetcode 88](https://leetcode-cn.com/problems/merge-sorted-array/))
