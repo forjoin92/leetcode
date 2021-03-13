@@ -65,6 +65,7 @@ leetcode go实现
 - [单词搜索II](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_212) ([leetcode 212](https://leetcode-cn.com/problems/word-search-ii/))
 - [存在重复元素](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_217) ([leetcode 217](https://leetcode-cn.com/problems/contains-duplicate/))
 - [用队列实现栈](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_225) ([leetcode 225](https://leetcode-cn.com/problems/implement-stack-using-queues/))
+- [2的幂](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_231) ([leetcode 231](https://leetcode-cn.com/problems/power-of-two/))
 - [用栈实现队列](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_232) ([leetcode 232](https://leetcode-cn.com/problems/implement-queue-using-stacks/))
 - [回文链表](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_234) ([leetcode 234](https://leetcode-cn.com/problems/palindrome-linked-list/))
 - [二叉搜索树的最近公共祖先](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_235) ([leetcode 235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/))
