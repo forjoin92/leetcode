@@ -79,6 +79,7 @@ leetcode go实现
 - [移动零](https://github.com/forjoin92/leetcode/tree/master/leetcode_251-300/leetcode_283) ([leetcode 283](https://leetcode-cn.com/problems/move-zeroes/))
 
 ## 301-350
+- [比特位计数](https://github.com/forjoin92/leetcode/tree/master/leetcode_301-350/leetcode_338) ([leetcode 338](https://leetcode-cn.com/problems/counting-bits/))
 - [反转字符串](https://github.com/forjoin92/leetcode/tree/master/leetcode_301-350/leetcode_344) ([leetcode 344](https://leetcode-cn.com/problems/reverse-string/))
 - [两个数组的交集](https://github.com/forjoin92/leetcode/tree/master/leetcode_301-350/leetcode_349) ([leetcode 349](https://leetcode-cn.com/problems/intersection-of-two-arrays/))
 - [两个数组的交集 II](https://github.com/forjoin92/leetcode/tree/master/leetcode_301-350/leetcode_350) ([leetcode 350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/))
