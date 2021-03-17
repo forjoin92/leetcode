@@ -57,6 +57,7 @@ leetcode go实现
 - [二叉树的前序遍历](https://github.com/forjoin92/leetcode/tree/master/leetcode_101-150/leetcode_144) ([leetcode 144](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))
 
 ## 151-200
+- [乘积最大子数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_151-200/leetcode_152) ([leetcode 152](https://leetcode-cn.com/problems/maximum-product-subarray/))
 - [多数元素](https://github.com/forjoin92/leetcode/tree/master/leetcode_151-200/leetcode_169) ([leetcode 169](https://leetcode-cn.com/problems/majority-element/))
 - [旋转数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_151-200/leetcode_189) ([leetcode 189](https://leetcode-cn.com/problems/rotate-array/))
 - [位1的个数](https://github.com/forjoin92/leetcode/tree/master/leetcode_151-200/leetcode_189) ([leetcode 189](https://leetcode-cn.com/problems/number-of-1-bits/))
