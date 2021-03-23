@@ -80,6 +80,7 @@ leetcode go实现
 ## 251-300
 - [第一个错误的版本](https://github.com/forjoin92/leetcode/tree/master/leetcode_251-300/leetcode_278) ([leetcode 278](https://leetcode-cn.com/problems/first-bad-version/))
 - [移动零](https://github.com/forjoin92/leetcode/tree/master/leetcode_251-300/leetcode_283) ([leetcode 283](https://leetcode-cn.com/problems/move-zeroes/))
+- [最长递增子序列](https://github.com/forjoin92/leetcode/tree/master/leetcode_251-300/leetcode_300) ([leetcode 300](https://leetcode-cn.com/problems/longest-increasing-subsequence/))
 
 ## 301-350
 - [比特位计数](https://github.com/forjoin92/leetcode/tree/master/leetcode_301-350/leetcode_338) ([leetcode 338](https://leetcode-cn.com/problems/counting-bits/))
