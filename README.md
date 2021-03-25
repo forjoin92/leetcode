@@ -40,6 +40,7 @@ leetcode go实现
 - [爬楼梯](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_70) ([leetcode 70](https://leetcode-cn.com/problems/climbing-stairs/))
 - [编辑距离](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_72) ([leetcode 72](https://leetcode-cn.com/problems/edit-distance/))
 - [单词搜索](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_79) ([leetcode 79](https://leetcode-cn.com/problems/word-search/))
+- [删除排序链表中的重复元素II](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_82) ([leetcode 82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/))
 - [合并两个有序数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_88) ([leetcode 88](https://leetcode-cn.com/problems/merge-sorted-array/))
 - [验证二叉搜索树](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_98) ([leetcode 98](https://leetcode-cn.com/problems/validate-binary-search-tree/))
 
