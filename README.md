@@ -36,6 +36,7 @@ leetcode go实现
 ## 51-100
 - [N皇后](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_51) ([leetcode 51](https://leetcode-cn.com/problems/n-queens/))
 - [插入区间](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_57) ([leetcode 57](https://leetcode-cn.com/problems/insert-interval/))
+- [旋转链表](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_61) ([leetcode 61](https://leetcode-cn.com/problems/rotate-list/))
 - [加一](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_66) ([leetcode 66](https://leetcode-cn.com/problems/plus-one/))
 - [x的平方根](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_69) ([leetcode 69](https://leetcode-cn.com/problems/sqrtx/))
 - [爬楼梯](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_70) ([leetcode 70](https://leetcode-cn.com/problems/climbing-stairs/))
