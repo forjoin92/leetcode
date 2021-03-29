@@ -66,7 +66,8 @@ leetcode go实现
 - [多数元素](https://github.com/forjoin92/leetcode/tree/master/leetcode_151-200/leetcode_169) ([leetcode 169](https://leetcode-cn.com/problems/majority-element/))
 - [二叉搜索树迭代器](https://github.com/forjoin92/leetcode/tree/master/leetcode_151-200/leetcode_173) ([leetcode 173](https://leetcode-cn.com/problems/binary-search-tree-iterator/))
 - [旋转数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_151-200/leetcode_189) ([leetcode 189](https://leetcode-cn.com/problems/rotate-array/))
-- [位1的个数](https://github.com/forjoin92/leetcode/tree/master/leetcode_151-200/leetcode_189) ([leetcode 189](https://leetcode-cn.com/problems/number-of-1-bits/))
+- [颠倒二进制位](https://github.com/forjoin92/leetcode/tree/master/leetcode_151-200/leetcode_190) ([leetcode 190](https://leetcode-cn.com/problems/reverse-bits/))
+- [位1的个数](https://github.com/forjoin92/leetcode/tree/master/leetcode_151-200/leetcode_191) ([leetcode 191](https://leetcode-cn.com/problems/number-of-1-bits/))
 
 ## 201-250
 - [反转链表](https://github.com/forjoin92/leetcode/tree/master/leetcode_201-250/leetcode_206) ([leetcode 206](https://leetcode-cn.com/problems/reverse-linked-list/))
