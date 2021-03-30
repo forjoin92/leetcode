@@ -24,6 +24,7 @@ leetcode go实现
 - [括号生成](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_22) ([leetcode 22](https://leetcode-cn.com/problems/generate-parentheses/))
 - [合并K个升序链表](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_23) ([leetcode 23](https://leetcode-cn.com/problems/merge-k-sorted-lists/))
 - [两两交换链表中的节点](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_24) ([leetcode 24](https://leetcode-cn.com/problems/swap-nodes-in-pairs/))
+- [K个一组翻转链表](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_25) ([leetcode 25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/))
 - [删除排序数组中的重复项](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_26) ([leetcode 26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/))
 - [移除元素](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_27) ([leetcode 27](https://leetcode-cn.com/problems/remove-element/))
 - [实现strStr()](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_28) ([leetcode 28](https://leetcode-cn.com/problems/implement-strstr/submissions/))
