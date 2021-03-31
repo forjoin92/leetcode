@@ -36,6 +36,7 @@ leetcode go实现
 - [搜索插入位置](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_35) ([leetcode 35](https://leetcode-cn.com/problems/search-insert-position/))
 - [有效的数独](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_36) ([leetcode 36](https://leetcode-cn.com/problems/valid-sudoku/))
 - [外观数列](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_38) ([leetcode 38](https://leetcode-cn.com/problems/count-and-say/))
+- [组合总和](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_39) ([leetcode 39](https://leetcode-cn.com/problems/combination-sum/))
 - [旋转图像](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_48) ([leetcode 48](https://leetcode-cn.com/problems/rotate-image/))
 - [Pow(x, n)](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_50) ([leetcode 50](https://leetcode-cn.com/problems/powx-n/))
 
