@@ -31,6 +31,7 @@ leetcode go实现
 - [两数相除](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_29) ([leetcode 29](https://leetcode-cn.com/problems/divide-two-integers/))
 - [串联所有单词的子串](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_30) ([leetcode 30](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/))
 - [下一个排列](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_31) ([leetcode 31](https://leetcode-cn.com/problems/next-permutation/))
+- [搜索旋转排序数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_33) ([leetcode 33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/))
 - [搜索插入位置](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_35) ([leetcode 35](https://leetcode-cn.com/problems/search-insert-position/))
 - [有效的数独](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_36) ([leetcode 36](https://leetcode-cn.com/problems/valid-sudoku/))
 - [外观数列](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_38) ([leetcode 38](https://leetcode-cn.com/problems/count-and-say/))
