@@ -116,6 +116,9 @@ leetcode go实现
 ## 901-950
 - [有效的山脉数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_901-950/leetcode_941) ([leetcode 941](https://leetcode-cn.com/problems/valid-mountain-array/))
 
+## 951-1000
+- [有序数组的平方](https://github.com/forjoin92/leetcode/tree/master/leetcode_951-1000/leetcode_977) ([leetcode 977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/))
+
 ## 1001-1050
 - [可被 5 整除的二进制前缀](https://github.com/forjoin92/leetcode/tree/master/leetcode_1001-1050/leetcode_1018) ([leetcode 1018](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/))
 
