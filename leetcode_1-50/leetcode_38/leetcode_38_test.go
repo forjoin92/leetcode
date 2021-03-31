@@ -6,19 +6,22 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func Test_countAndSay(t *testing.T) {
-	n1 := 1
-	expected1 := "1"
-	res1 := countAndSay(n1)
-	assert.Equal(t, expected1, res1)
+func Test_countAndSay1(t *testing.T) {
+	n := 1
+	expected := "1"
+	actual := countAndSay(n)
+	assert.Equal(t, expected, actual)
+}
 
-	n2 := 4
-	expected2 := "1211"
-	res2 := countAndSay(n2)
-	assert.Equal(t, expected2, res2)
-
-	n3 := 5
-	expected3 := "111221"
-	res3 := countAndSay(n3)
-	assert.Equal(t, expected3, res3)
+func Test_countAndSay2(t *testing.T) {
+	n := 4
+	expected := "1211"
+	actual := countAndSay(n)
+	assert.Equal(t, expected, actual)
+}
+func Test_countAndSay3(t *testing.T) {
+	n := 5
+	expected := "111221"
+	actual := countAndSay(n)
+	assert.Equal(t, expected, actual)
 }

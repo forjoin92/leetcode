@@ -1,40 +1,25 @@
 package leetcode_38
 
-import "fmt"
+import (
+	"strconv"
+)
 
 func countAndSay(n int) string {
-	if n == 1 {
-		return "1"
-	}
 	res := "1"
-	for i := 2; i <= n; i++ {
-		res = parseStr(res)
-	}
-	return res
-}
-
-func parseStr(str string) string {
-	var (
-		res   string
-		count int
-		char  uint8
-	)
-	for i := 0; i < len(str); i++ {
-		if count == 0 {
-			char = str[i]
-			count++
-		} else {
-			if char == str[i] {
+	for i := 1; i < n; i++ {
+		var newRes string
+		char, count := res[0], 1
+		for i := 1; i < len(res); i++ {
+			if res[i] == res[i-1] {
 				count++
 			} else {
-				res = fmt.Sprintf("%s%d%c", res, count, char)
+				newRes = newRes + strconv.Itoa(count) + string(char)
+				char = res[i]
 				count = 1
-				char = str[i]
 			}
 		}
-	}
-	if count > 0 {
-		res = fmt.Sprintf("%s%d%c", res, count, char)
+		newRes = newRes + strconv.Itoa(count) + string(char)
+		res = newRes
 	}
 	return res
 }
