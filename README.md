@@ -49,6 +49,7 @@ leetcode go实现
 - [删除排序链表中的重复元素II](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_82) ([leetcode 82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/))
 - [删除排序链表中的重复元素](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_83) ([leetcode 83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/))
 - [合并两个有序数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_88) ([leetcode 88](https://leetcode-cn.com/problems/merge-sorted-array/))
+- [子集II](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_90) ([leetcode 90](https://leetcode-cn.com/problems/subsets-ii/))
 - [验证二叉搜索树](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_98) ([leetcode 98](https://leetcode-cn.com/problems/validate-binary-search-tree/))
 
 ## 101-150
