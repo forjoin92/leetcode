@@ -38,6 +38,7 @@ leetcode go实现
 - [外观数列](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_38) ([leetcode 38](https://leetcode-cn.com/problems/count-and-say/))
 - [组合总和](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_39) ([leetcode 39](https://leetcode-cn.com/problems/combination-sum/))
 - [组合总和II](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_40) ([leetcode 40](https://leetcode-cn.com/problems/combination-sum-ii/))
+- [缺失的第一个正数](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_41) ([leetcode 41](https://leetcode-cn.com/problems/first-missing-positive/))
 - [旋转图像](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_48) ([leetcode 48](https://leetcode-cn.com/problems/rotate-image/))
 - [Pow(x, n)](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_50) ([leetcode 50](https://leetcode-cn.com/problems/powx-n/))
 
