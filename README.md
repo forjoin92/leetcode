@@ -37,6 +37,7 @@ leetcode go实现
 - [有效的数独](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_36) ([leetcode 36](https://leetcode-cn.com/problems/valid-sudoku/))
 - [外观数列](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_38) ([leetcode 38](https://leetcode-cn.com/problems/count-and-say/))
 - [组合总和](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_39) ([leetcode 39](https://leetcode-cn.com/problems/combination-sum/))
+- [组合总和II](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_40) ([leetcode 40](https://leetcode-cn.com/problems/combination-sum-ii/))
 - [旋转图像](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_48) ([leetcode 48](https://leetcode-cn.com/problems/rotate-image/))
 - [Pow(x, n)](https://github.com/forjoin92/leetcode/tree/master/leetcode_1-50/leetcode_50) ([leetcode 50](https://leetcode-cn.com/problems/powx-n/))
 
@@ -124,6 +125,7 @@ leetcode go实现
 - [有序数组的平方](https://github.com/forjoin92/leetcode/tree/master/leetcode_951-1000/leetcode_977) ([leetcode 977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/))
 
 ## 1001-1050
+- [笨阶乘](https://github.com/forjoin92/leetcode/tree/master/leetcode_1001-1050/leetcode_1006) ([leetcode 1006](https://leetcode-cn.com/problems/clumsy-factorial/))
 - [可被 5 整除的二进制前缀](https://github.com/forjoin92/leetcode/tree/master/leetcode_1001-1050/leetcode_1018) ([leetcode 1018](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/))
 
 ## 1201-1250
