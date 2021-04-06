@@ -54,6 +54,7 @@ leetcode go实现
 - [编辑距离](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_72) ([leetcode 72](https://leetcode-cn.com/problems/edit-distance/))
 - [搜索二维矩阵](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_74) ([leetcode 74](https://leetcode-cn.com/problems/search-a-2d-matrix/))
 - [单词搜索](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_79) ([leetcode 79](https://leetcode-cn.com/problems/word-search/))
+- [删除有序数组中的重复项II](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_80) ([leetcode 80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/))
 - [删除排序链表中的重复元素II](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_82) ([leetcode 82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/))
 - [删除排序链表中的重复元素](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_83) ([leetcode 83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/))
 - [合并两个有序数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_51-100/leetcode_88) ([leetcode 88](https://leetcode-cn.com/problems/merge-sorted-array/))
