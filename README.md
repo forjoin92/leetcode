@@ -123,6 +123,7 @@ leetcode go实现
 - [较大分组的位置](https://github.com/forjoin92/leetcode/tree/master/leetcode_801-850/leetcode_830) ([leetcode 830](https://leetcode-cn.com/problems/positions-of-large-groups/))
 
 ## 901-950
+- [排序数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_901-950/leetcode_912) ([leetcode 912](https://leetcode-cn.com/problems/sort-an-array/))
 - [有效的山脉数组](https://github.com/forjoin92/leetcode/tree/master/leetcode_901-950/leetcode_941) ([leetcode 941](https://leetcode-cn.com/problems/valid-mountain-array/))
 
 ## 951-1000
